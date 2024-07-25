@@ -26,7 +26,7 @@ export function Header({header, isLoggedIn, cart}: HeaderProps) {
 }
 
 export function HeaderMenu({
-  menu,
+ // menu,
   primaryDomainUrl,
   viewport,
 }: {
